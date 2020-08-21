@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-plugpag",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +16,6 @@
   "author": "Ítalo Menezes",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "0.63.2"
   }
 }
